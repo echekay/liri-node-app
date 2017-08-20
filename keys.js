@@ -1,18 +1,17 @@
-console.log('this is loaded');
 
 exports.twitterKeys = {
   consumer_key: 'npKQK29iyCLEqWUVaxxYVWuYG',
   consumer_secret: '7bDbNEcLwuacF7tKHNZl7l71zeiinZeeOYf5OuXV2TAk2zalWv',
-  access_token_key: ' 897582108327260161-ovuVIFD7Yfs6PFTW7Yz2E58rHeQpZzf',
-  access_token_secret: 'yQH1833V9chrmsBxzgVHg9A6ZIG7ClNVD6AYhYGQsAR0k',
+  access_token_key: '897582108327260161-ovuVIFD7Yfs6PFTW7Yz2E58rHeQpZzf',
+  access_token_secret: 'yQH1833V9chrmsBxzgVHg9A6ZIG7ClNVD6AYhYGQsAR0k'
 }
 
-exports.spotifyKeys = {
-  consumer_key: '',
-  consumer_secret: '',
-  access_token_key: '',
-  access_token_secret: ''
-}
+// exports.spotifyKeys = {
+//   consumer_key: '',
+//   consumer_secret: '',
+//   access_token_key: '',
+//   access_token_secret: ''
+// }
 
 // Spotify
 // Client ID
