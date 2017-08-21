@@ -6,17 +6,8 @@ exports.twitterKeys = {
   access_token_secret: 'yQH1833V9chrmsBxzgVHg9A6ZIG7ClNVD6AYhYGQsAR0k'
 }
 
-// exports.spotifyKeys = {
-//   consumer_key: '',
-//   consumer_secret: '',
-//   access_token_key: '',
-//   access_token_secret: ''
-// }
+exports.spotifyKeys = {
+  id: "efe46214d7634ff0b0ffae34b1fc8187",
+  secret: "12904dd1d0324fa68df2c7df6098f067"
+}
 
-// Spotify
-// Client ID
-// efe46214d7634ff0b0ffae34b1fc8187
-
-// Spotify
-// Client Secret
-// 12904dd1d0324fa68df2c7df6098f067
